@@ -77,7 +77,4 @@ Below is a screenshot showcasing the active Netdata dashboard and metric retenti
   ├📸 screenshots/
   └📄 README.md
 
-🔗 Submission Instructions
-
-GitHub Repository: divyanshityagi653/Monitor-System-Resources-Using-Netdata
 
